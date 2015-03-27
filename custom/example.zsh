@@ -3,3 +3,4 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
+# TODO: Time to switch from bash to zsh.
